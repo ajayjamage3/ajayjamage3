@@ -11,13 +11,13 @@
 
 - 👯 I collaborated for [Beautify](https://thunderous-empanada-db3543.netlify.app/index.html)
 
-- 👨‍💻 All of my projects are available at [ajayjamage3.github.io](ajayjamage3.github.io)
+- 👨‍💻 All of my projects are available at [ajayjamage3.github.io](https://ajayjamage3.github.io/)
 
 - 💬 Ask me about **Html,Css,JavaScript,Node.js,Mongodb,express,python,c,c++**
 
 - 📫 How to reach me **ajayjamage3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link](https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
