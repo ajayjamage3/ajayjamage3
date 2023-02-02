@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ajayjamage3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link](https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
