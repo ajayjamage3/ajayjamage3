@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/ajay-jamage-92b1b71b4/">
+<p align="left"> <a href="https://www.linkedin.com/in/ajay-jamage-92b1b71b4/">ajayjamage</a></p>
 <p align="left">
 </p>
 
