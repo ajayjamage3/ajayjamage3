@@ -11,7 +11,7 @@
 
 - 👯 I collaborated for [Beautify](https://thunderous-empanada-db3543.netlify.app/index.html)
 
-- 👨‍💻 All of my projects are available at [ajayjamage3](https://ajayjamage3.github.io/)
+- 👨‍💻 All of my projects are available at [ajayjamage3](ajayjamage3.github.io)
 
 - 💬 Ask me about **Html,Css,JavaScript,Node.js,Mongodb,express,python,c,c++**
 
