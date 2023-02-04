@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Html,Css,JavaScript,Node.js,Mongodb,express,python,c,c++**
 
-- 📫 How to reach me **ajayjamage3@gmail.com**
+
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link)
 
