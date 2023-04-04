@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayjamage3" alt="ajayjamage3" /></a> </p>
 
-- 🔭 I’m currently working on [clickdeal](https://moonlit-liger-bfe537.netlify.app/index.html)
+- 🔭 I’m currently working on [Workout Fitness Center](http://velvety-starburst-b38fa3.netlify.app/)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I collaborated for [Beautify](https://thunderous-empanada-db3543.netlify.app/index.html)
+- 👯 I collaborated for [Workout Fitness Center](http://velvety-starburst-b38fa3.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://ajayjamage3.github.io/](https://ajayjamage3.github.io/)
 
