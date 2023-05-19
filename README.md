@@ -16,7 +16,7 @@
 
 <p align="center"> 💬 Ask me about **Html,Css,JavaScript,Node.js,Mongodb,express,python,c,c++**</p>
 
-<p align="center">📄 Know about my experiences<a href="https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link">Resume</a></p>
+<p align="center">📄 Know about my experiences <a href="https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link">Resume</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/ajay-jamage-92b1b71b4/">ajayjamage</a></p>
