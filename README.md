@@ -6,17 +6,17 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayjamage3" alt="ajayjamage3" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on [Workout Fitness Center](http://velvety-starburst-b38fa3.netlify.app/)</p>
+<p align="center"> 🔭 I’m currently working on<a href="http://velvety-starburst-b38fa3.netlify.app/"> Workout Fitness Center </a> </p>
 
-<p align="center">- 🌱 I’m currently learning **Full Stack Web Development**</p>
+<p align="center"> 🌱 I’m currently learning **Full Stack Web Development**</p>
 
-<p align="center">- 👯 I collaborated for [Workout Fitness Center](http://velvety-starburst-b38fa3.netlify.app/)</p>
+<p align="center"> 👯 I collaborated for <a href="http://velvety-starburst-b38fa3.netlify.app/"> Workout Fitness Center</a></p>
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://ajayjamage3.github.io/](https://ajayjamage3.github.io/)</p>
+<p align="center">👨‍💻 All of my projects are available at <a href="https://ajayjamage3.github.io/">ajayjamage3.github.io</a></p>
 
-<p align="center">- 💬 Ask me about **Html,Css,JavaScript,Node.js,Mongodb,express,python,c,c++**</p>
+<p align="center"> 💬 Ask me about **Html,Css,JavaScript,Node.js,Mongodb,express,python,c,c++**</p>
 
-<p align="center">- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link)</p>
+<p align="center">📄 Know about my experiences<a href="https://drive.google.com/file/d/1vE8rt6JcSB2VhUwM5CPcH7GPePcVIwPm/view?usp=share_link">Resume</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/ajay-jamage-92b1b71b4/">ajayjamage</a></p>
